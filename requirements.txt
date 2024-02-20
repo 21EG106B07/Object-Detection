@@ -1,5 +1,6 @@
 streamlit
 ultralytics
+YOLO
 cv2
 cvzone
 math
