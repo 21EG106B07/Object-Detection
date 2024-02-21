@@ -1,3 +1,4 @@
+--upgrade pip
 streamlit
 cvzone==1.5.6
 ultralytics
